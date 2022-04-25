@@ -34,7 +34,7 @@ bash run_cake.sh train TransE dbpedia 0 all 512 2 1000 24.0 1.0 0.0001 200000 8
 **RotatE+CAKE:**
 ```
 bash run_cake.sh train RotatE FB15k-237_concept 2 0 512 2 1000 20.0 1.0 0.00005 100000 16 -de
-bash run_all.sh train RotatE nell 2 all 256 2 500 8.0 0.5 0.0001 250000 8 -de
+bash run_cake.sh train RotatE nell 2 all 256 2 500 8.0 0.5 0.0001 250000 8 -de
 bash run_cake.sh train RotatE dbpedia 1 mulp 1024 2 500 24.0 1.0 0.0002 200000 4 -de
 ```
 
