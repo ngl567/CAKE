@@ -41,7 +41,7 @@ bash run_cake.sh train RotatE dbpedia 1 mulp 1024 2 500 24.0 1.0 0.0002 200000 4
 ## Citation
 If you use the codes, please cite the following paper:
 ```
-@inproceedings{RPJE19,
+@inproceedings{niu2022cake,
   author    = {Guanglin Niu and
                Bo Li and
                Yongfei Zhang and
