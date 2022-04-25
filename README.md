@@ -38,7 +38,7 @@ bash run_all.sh train RotatE nell 2 all 256 2 500 8.0 0.5 0.0001 250000 8 -de
 bash run_cake.sh train RotatE dbpedia 1 mulp 1024 2 500 24.0 1.0 0.0002 200000 4 -de
 ```
 
-## Acknowledge
+## Citation
 If you use the codes, please cite the following paper:
 ```
 @inproceedings{RPJE19,
